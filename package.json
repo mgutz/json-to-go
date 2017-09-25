@@ -1,0 +1,21 @@
+{
+  "name": "@mgutz/json-to-go",
+  "version": "1.0.0",
+  "description":
+    "[<img src=\"https://mholt.github.io/json-to-go/resources/images/json-to-go.png\" alt=\"JSON-to-Go converts JSON to a Go struct\"></a>](https://mholt.github.io/json-to-go)",
+  "main": "json-to-go.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgutz/json-to-go.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgutz/json-to-go/issues"
+  },
+  "homepage": "https://github.com/mgutz/json-to-go#readme"
+}
